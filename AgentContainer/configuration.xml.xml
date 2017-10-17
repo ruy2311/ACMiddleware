@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : configuration.xml.xml
+    Created on : November 30, 2009, 9:26 PM
+    Author     : ruy
+    Description:
+        Purpose of the document follows.
+-->
+<Conf>
+    <AMQServer></AMQServer>
+    <CTime></CTime>
+    <Classpath>
+        <URL></URL>
+    </Classpath>
+</Conf>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : SystemGroups.xml
+    Created on : March 8, 2009, 1:15 PM
+    Author     : ruy
+    Description:
+        Purpose of the document follows.
+-->
+<SystemGroups>
+    <Group>
+        <ID>ALL</ID>
+        <Members>
+            <Agent>ALL</Agent>
+        </Members>
+    </Group>
+    <Group>
+        <ID>TEST</ID>
+        <Members>
+            <Agent>ruy</Agent>
+            <Agent>tania</Agent>
+        </Members>    
+    </Group>    
+</SystemGroups>

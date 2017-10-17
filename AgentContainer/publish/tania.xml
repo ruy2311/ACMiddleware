@@ -1,0 +1,5 @@
+<agent>
+	<class>APP1</class>
+	<id>tania</id>
+	<gui>TaniaGUI</gui>
+</agent>

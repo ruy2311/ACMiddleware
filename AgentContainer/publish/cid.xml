@@ -1,0 +1,5 @@
+<agent>
+	<class>APP</class>
+	<id>cid</id>
+	<gui>CidGUI</gui>
+</agent>

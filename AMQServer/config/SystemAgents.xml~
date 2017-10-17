@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : SystemAgents.xml
+    Created on : January 12, 2009, 8:34 PM
+    Author     : ruy
+    Description:
+        Purpose of the document follows.
+-->
+<SystemAgents>
+<Agent>
+<ID>cid</ID>
+<Cert>231182</Cert>
+<LeaseTime></LeaseTime>
+</Agent>
+<Agent>
+<ID>tania</ID>
+<Cert>080907</Cert>
+<LeaseTime></LeaseTime>
+</Agent>
+<Agent>
+<ID>akire</ID>
+<Cert>21186</Cert>
+<LeaseTime></LeaseTime>
+</Agent>
+<Agent>
+<ID>raziel</ID>
+<Cert>23112009</Cert>
+<LeaseTime></LeaseTime>
+</Agent>
+<Agent>
+</SystemAgents>
